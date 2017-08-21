@@ -86,7 +86,6 @@ function roundBorder(e){
 	document.getElementById("guinea-pig").style.borderRadius = "15px";
 }
 
-//The first section's text should be bold.
 
 
 

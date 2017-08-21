@@ -1,0 +1,14 @@
+/*The first section's text should be bold.*/
+
+#firstSection {
+	font-weight: bold;
+}
+
+#lastSection {
+	font-weight: bold;
+	font-style: italic;
+}
+
+button {
+	display: block;
+}
